@@ -112,14 +112,21 @@ Two clustering techniques were applied:
   - **Small Retail Buyers**
     - Low spending, infrequent purchases  
   - **Large Wholesale Buyers**
-    - High spending, frequent purchases  
+    - High spending, frequent purchases
+
+<img width="925" height="790" alt="output" src="https://github.com/user-attachments/assets/30111df0-bc61-49da-a29d-c4a256721cf6" />
+
 
 ### DBSCAN
 
 - Detected similar segments but with:
   - Higher sensitivity to parameters  
   - Presence of noise points  
-  - Less stable clustering structure  
+  - Less stable clustering structure
+
+<img width="565" height="455" alt="output2" src="https://github.com/user-attachments/assets/4b47a94f-72e9-4298-b6bb-13cc9e265844" />
+
+
 
 ---
 
